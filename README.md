@@ -4,7 +4,7 @@
 
 ## Chinese Version
 
-[PDF]()
+[PDF](https://github.com/haiker2011/resume/blob/master/docs/resume-cn.pdf)
 
 ## English Version
 
