@@ -1,6 +1,6 @@
 # resume
 
-个人简历
+个人简历，寻找 2019 云原生开发/后端/AI infra 实习或者全职工作
 
 ## Chinese Version
 
