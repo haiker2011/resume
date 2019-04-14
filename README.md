@@ -7,8 +7,9 @@
 [PDF](https://haiker2011.github.io/resume/resume-cn.pdf)
 
 ## English Version
+TODO
 
-[PDF]()
+PDF
 
 ## 致谢
 
